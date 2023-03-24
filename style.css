@@ -1,0 +1,15 @@
+#cat, #dog, #elephant, #cow{
+    border: 10px solid black;
+    padding: 10px;
+}
+
+.bottom_div{
+    position:fixed;
+    bottom : 10;
+    text-align: center;
+    border: 3px solid blue;
+    background-color: aqua;
+    color: brown;
+    width: 100%;
+    font-size: 25px;
+}
